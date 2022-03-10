@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pangxiaoli
-- 🌱 I’m currently learning Vue.js
+- 🌱 
 - 📫 you can reach me by e-mail for qiubit@qiubit.cc
 
 <!---
