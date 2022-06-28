@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pangxiaoli
-- 🌱 
+- 🌱 a Front-end engineer
 - 📫 you can reach me by e-mail for qiubit@qiubit.cc
 
 <!---
